@@ -1,7 +1,7 @@
 {
   "name": "@malven/eslint-config-react",
-  "version": "2.0.0",
-  "description": "Malven Co. Javascript coding standards React projects using ESLint http://eslint.org",
+  "version": "1.0.0",
+  "description": "Malven Co. Javascript coding standards React projects using ESLint",
   "main": "index.js",
   "scripts": {},
   "repository": {
